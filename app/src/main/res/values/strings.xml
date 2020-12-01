@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="navigation_drawer_open">Abrir painel de navegação</string>
+    <string name="navigation_drawer_close">Fechar painel de navegação</string>
+    <string name="nav_header_title">Acessible Commercial Websites</string>
+    <string name="nav_header_subtitle">acw@gmail.com</string>
+    <string name="nav_header_desc">Painel de Navegação</string>
+
+    <string name="menu_home">Início</string>
+    <string name="menu_orcamento">Orçamento</string>
+    <string name="menu_trabalhe">Trabalhe Conosco</string>
+</resources>
